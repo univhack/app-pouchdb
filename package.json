@@ -1,7 +1,6 @@
 {
   "name": "@polymer/app-pouchdb",
   "version": "2.11",
-  "private": true,
   "description": "Custom Elements for working with PouchDB.",
   "license": "BSD-3-Clause",
   "devDependencies": {
